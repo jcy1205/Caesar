@@ -1,0 +1,26 @@
+.caesar {
+    width: 300px;
+    height: 350px;
+    border-style: solid;
+    background-color: gray;
+    float: right;
+}
+#display {
+    width: 280px;
+    height: 100px;
+    border-style: solid;
+    margin: 8px;
+}
+#text_id {
+    display: block;
+    width: 280px;
+    height: 50px;
+    border-style: solid;
+    margin: 7px;
+}
+#b {
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    font-size: large;
+}
